@@ -16,4 +16,4 @@
 
  var Pass = "";
 
- var max = "7";
+ var max = "0";
