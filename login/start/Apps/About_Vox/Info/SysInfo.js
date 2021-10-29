@@ -8,7 +8,7 @@
 
 /* UserInfo */
 
- var UserName = "SE";
+ var UserName = "Vox User";
 
  var PassProtected = "No";
 
