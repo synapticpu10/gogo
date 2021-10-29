@@ -10,10 +10,10 @@
 
  var UserName = "SE";
 
- var PassProtected = "Yes";
+ var PassProtected = "No";
 
  /* Not obtained by About Vox */
 
- var Pass = "2663680";
+ var Pass = "";
 
  var max = "7";
