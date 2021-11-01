@@ -68,7 +68,7 @@ function home1()
 function proxy1()
 {
   window.doNotTrack = 1;
-   ifr1.src =  "http://kt-apt.herokuapp.com/";
+   ifr1.src =  "https://kt-apt.herokuapp.com/";
     bdy.style.backgroundColor = "black";
    s1.style.backgroundColor = "black";
      s1.style.color = "white";
@@ -100,7 +100,7 @@ function home2()
 function proxy2()
 {
   window.doNotTrack = 1;
-   ifr2.src =  "http://kt-apt.herokuapp.com/";
+   ifr2.src =  "https://kt-apt.herokuapp.com/";
     bdy.style.backgroundColor = "black";
    s2.style.backgroundColor = "black";
      s2.style.color = "white";
@@ -132,7 +132,7 @@ function home3()
 function proxy3()
 {
   window.doNotTrack = 1;
-   ifr3.src =  "http://kt-apt.herokuapp.com/";
+   ifr3.src =  "https://kt-apt.herokuapp.com/";
     bdy.style.backgroundColor = "black";
    s3.style.backgroundColor = "black";
      s3.style.color = "white";
@@ -163,7 +163,7 @@ function home4()
 function proxy4()
 {
   window.doNotTrack = 1;
-   ifr4.src =  "http://kt-apt.herokuapp.com/";
+   ifr4.src =  "https://kt-apt.herokuapp.com/";
     bdy.style.backgroundColor = "black";
    s4.style.backgroundColor = "black";
      s4.style.color = "white";
@@ -195,7 +195,7 @@ function home5()
 function proxy5()
 {
   window.doNotTrack = 1;
-   ifr5.load("http://kt-apt.herokuapp.com/");
+   ifr5.load("https://kt-apt.herokuapp.com/");
     bdy.style.backgroundColor = "black";
    s5.style.backgroundColor = "black";
      s5.style.color = "white";
